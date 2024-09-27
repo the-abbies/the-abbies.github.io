@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "The Abbies",
     "description": "",
-    "home_page_url": "https://the-abbies.github.io/theabbies",
-    "feed_url": "https://the-abbies.github.io/theabbies/feed.json",
+    "home_page_url": "https://the-abbies.github.io",
+    "feed_url": "https://the-abbies.github.io/feed.json",
     "user_comment": "",
     "author": {
         "name": "the-abbies"
     },
     "items": [
         {
-            "id": "https://the-abbies.github.io/theabbies/test-post.html",
-            "url": "https://the-abbies.github.io/theabbies/test-post.html",
+            "id": "https://the-abbies.github.io/test-post.html",
+            "url": "https://the-abbies.github.io/test-post.html",
             "title": "Test Post",
             "summary": "Just another test post. ",
             "content_html": "<p>Just another test post. </p>",
