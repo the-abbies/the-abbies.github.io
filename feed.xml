@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>The Abbies</title>
-    <link href="https://whiteningwithoutharm/feed.xml" rel="self" />
-    <link href="https://whiteningwithoutharm" />
+    <link href="http://whiteningwithoutharm/feed.xml" rel="self" />
+    <link href="http://whiteningwithoutharm" />
     <updated>2024-09-27T10:28:32-07:00</updated>
     <author>
         <name>the-abbies</name>
     </author>
-    <id>https://whiteningwithoutharm</id>
+    <id>http://whiteningwithoutharm</id>
 
     <entry>
         <title>Test Post</title>
         <author>
             <name>the-abbies</name>
         </author>
-        <link href="https://whiteningwithoutharm/test-post.html"/>
-        <id>https://whiteningwithoutharm/test-post.html</id>
+        <link href="http://whiteningwithoutharm/test-post.html"/>
+        <id>http://whiteningwithoutharm/test-post.html</id>
 
         <updated>2024-09-27T10:28:32-07:00</updated>
             <summary>
