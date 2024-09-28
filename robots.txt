@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: http://whiteningwithoutharm.com/sitemap.xml
+Sitemap: https://whiteningwithoutharm.com/sitemap.xml
