@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "The Abbies",
     "description": "",
-    "home_page_url": "http://whiteningwithoutharm",
-    "feed_url": "http://whiteningwithoutharm/feed.json",
+    "home_page_url": "http://whiteningwithoutharm.com",
+    "feed_url": "http://whiteningwithoutharm.com/feed.json",
     "user_comment": "",
     "author": {
         "name": "the-abbies"
     },
     "items": [
         {
-            "id": "http://whiteningwithoutharm/test-post.html",
-            "url": "http://whiteningwithoutharm/test-post.html",
+            "id": "http://whiteningwithoutharm.com/test-post.html",
+            "url": "http://whiteningwithoutharm.com/test-post.html",
             "title": "Test Post",
             "summary": "Just another test post. ",
             "content_html": "<p>Just another test post. </p>",
