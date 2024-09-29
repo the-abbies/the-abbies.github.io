@@ -3,7 +3,7 @@
     <title>The Abbies</title>
     <link href="https://whiteningwithoutharm.com/feed.xml" rel="self" />
     <link href="https://whiteningwithoutharm.com" />
-    <updated>2024-09-27T10:28:32-07:00</updated>
+    <updated>2024-09-29T14:18:09-07:00</updated>
     <author>
         <name>the-abbies</name>
     </author>
@@ -20,12 +20,13 @@
         <updated>2024-09-27T10:28:32-07:00</updated>
             <summary>
                 <![CDATA[
-                    Just another test post. 
+                    Just another test post. Don't Click Here!
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                 <p>Just another test post. </p>
+<p><a href="https://whiteningwithoutharm.com">Don't Click Here!</a></p>
             ]]>
         </content>
     </entry>

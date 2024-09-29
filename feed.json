@@ -13,15 +13,15 @@
             "id": "https://whiteningwithoutharm.com/test-post.html",
             "url": "https://whiteningwithoutharm.com/test-post.html",
             "title": "Test Post",
-            "summary": "Just another test post. ",
-            "content_html": "<p>Just another test post. </p>",
+            "summary": "Just another test post. Don't Click Here!",
+            "content_html": "<p>Just another test post. </p>\n<p><a href=\"https://whiteningwithoutharm.com\">Don't Click Here!</a></p>",
             "author": {
                 "name": "the-abbies"
             },
             "tags": [
             ],
             "date_published": "2024-09-27T10:28:32-07:00",
-            "date_modified": "2024-09-27T10:28:32-07:00"
+            "date_modified": "2024-09-29T14:18:09-07:00"
         }
     ]
 }
